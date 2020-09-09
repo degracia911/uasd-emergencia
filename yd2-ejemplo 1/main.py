@@ -1,2 +1,2 @@
-# esto es un comentario
+# esto es un com
 print("Funciona")
