@@ -1,4 +1,4 @@
-# esto es un com
+# esto es un comentario 
 print("Funciona")
 # almacenamiento en la memoria
 
