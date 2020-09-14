@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "uasd-emergencia",
+			"path": "../uasd-emergencia"
+		},
+		{
+			"name": "uasd-emergencia-1",
+			"path": "../uasd-emergencia-1"
+		}
+	],
+	"settings": {}
+}
