@@ -23,3 +23,5 @@ clase  casa :
         yo . color  =  "azul"
         yo . asientos  =  4
 
+
+
