@@ -144,3 +144,5 @@ for i in range(c,a):
 print ("Los multiples de 6 son:", multiples_6)
 
 
+
+
