@@ -7,8 +7,3 @@ def cedula ():
 else: 
     print ("cedula es invalida ")
     cedula()
-
-
-
-
-
