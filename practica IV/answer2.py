@@ -7,3 +7,4 @@ class Estudiantes:
             print("promedio minimo")
 
 Estudiante = Estudiantes(100)
+
